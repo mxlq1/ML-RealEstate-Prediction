@@ -1,5 +1,5 @@
 # ML-RealEstate-Prediction
-Predicts the prices of real estate property using linear regression
+Predicts the prices of real estate property
 
 Price of flats in Moscow
 
